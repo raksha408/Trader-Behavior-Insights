@@ -40,21 +40,6 @@ Created daily metrics:
 
 ---
 
-## 📊 Visual Outputs
-
-### 1️⃣ Daily Trader PnL vs Fear–Greed Index
-<img src="plots/Daily Trader PnL vs Fear–Greed Index.png" width="700">
-
-### 2️⃣ Daily Trading Volume vs Market Sentiment
-<img src="plots/Daily Trading Volume vs Market Sentiment.png" width="700">
-
-### 3️⃣ Time-Series Comparison
-<img src="plots/Time-Series Comparison.png" width="700">
-
-### 4️⃣ Performance & Sentiment Metrics
-<img src="plots/Performance & Sentiment Metrics.png" width="700">
-
----
 ##  Project Structure
 
 This repository is organized into clear, modular folders to make the analysis easy to follow and reproduce:
@@ -115,6 +100,20 @@ Each plot directly supports insights in the analysis.
 - Fear periods show **higher volume and sometimes higher profits**, suggesting contrarian behavior.
 
 ---
+## 📊 Visual Outputs
+
+### 1️⃣ Daily Trader PnL vs Fear–Greed Index
+<img src="plots/Daily Trader PnL vs Fear–Greed Index.png" width="700">
+
+### 2️⃣ Daily Trading Volume vs Market Sentiment
+<img src="plots/Daily Trading Volume vs Market Sentiment.png" width="700">
+
+### 3️⃣ Time-Series Comparison
+<img src="plots/Time-Series Comparison.png" width="700">
+
+### 4️⃣ Performance & Sentiment Metrics
+<img src="plots/Performance & Sentiment Metrics.png" width="700">
+---
 
 ##  Tools Used
 - Python  
@@ -122,26 +121,6 @@ Each plot directly supports insights in the analysis.
 - Matplotlib  
 - Seaborn  
 - Google Colab  
-
----
-
----
-
-## 📊 Visual Outputs
-
-Below are the key charts generated from the analysis:
-
-### **1️⃣ Daily Trader PnL vs Fear–Greed Index**
-![Daily Trader PnL vs Fear–Greed Index](https://github.com/your-username/Trader-Behavior-Insights/blob/main/plots/Daily%20Trader%20PnL%20vs%20Fear%E2%80%93Greed%20Index.png)
-
-### **2️⃣ Daily Trading Volume vs Market Sentiment**
-![Daily Trading Volume vs Market Sentiment](https://github.com/your-username/Trader-Behavior-Insights/blob/main/plots/Daily%20Trading%20Volume%20vs%20Market%20Sentiment.png)
-
-### **3️⃣ Time-Series Comparison**
-![Time-Series Comparison](https://github.com/your-username/Trader-Behavior-Insights/blob/main/plots/Time-Series%20Comparison.png)
-
-### **4️⃣ Performance & Sentiment Metrics (Correlation Heatmap)**
-![Performance & Sentiment Metrics](https://github.com/your-username/Trader-Behavior-Insights/blob/main/plots/Performance%20%26%20Sentiment%20Metrics.png)
 
 ---
 
