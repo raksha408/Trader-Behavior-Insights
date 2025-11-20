@@ -113,6 +113,7 @@ Each plot directly supports insights in the analysis.
 
 ### 4️⃣ Performance & Sentiment Metrics
 <img src="plots/Performance & Sentiment Metrics.png" width="700">
+
 ---
 
 ##  Tools Used
