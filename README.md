@@ -60,8 +60,9 @@ This folder contains the main analysis notebook:
   - Feature engineering  
   - Sentiment merging  
   - Visualizations  
-  - Correlation and insights  
-  You can access the Google colab notebook through this link https://colab.research.google.com/drive/1qcU3wvlD2C-IUVa8YzthR-48dpxC138Y?usp=drive_link
+  - Correlation and insights
+  
+You can access the Google colab notebook through this link https://colab.research.google.com/drive/1qcU3wvlD2C-IUVa8YzthR-48dpxC138Y?usp=drive_link
 
 ### **4. data/**
 Contains sample reference datasets:
