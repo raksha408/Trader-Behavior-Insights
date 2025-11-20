@@ -100,7 +100,7 @@ Each plot directly supports insights in the analysis.
 - Fear periods show **higher volume and sometimes higher profits**, suggesting contrarian behavior.
 
 ---
-## 📊 Visual Outputs
+##  Visual Outputs
 
 ### 1️⃣ Daily Trader PnL vs Fear–Greed Index
 <img src="plots/Daily Trader PnL vs Fear–Greed Index.png" width="700">
