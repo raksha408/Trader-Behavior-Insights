@@ -38,24 +38,31 @@ Created daily metrics:
 - Joined Hyperliquid data with Market Sentiment data  
 - Merge key: `date`
 
-### **4. Visual Analysis**
-Generated four required charts:
+---
 
-#### 1️⃣ Daily Trader PnL vs Fear–Greed Index (Scatter Plot)
-Shows how profit/loss changes with market sentiment.
+## 📊 Visual Outputs
 
-#### 2️⃣ Daily Trading Volume vs Fear–Greed Index (Scatter Plot)
-Explores whether traders take larger positions during extreme emotions.
+Below are the key charts generated from the analysis:
 
-#### 3️⃣ Time-Series Comparison (PnL vs Sentiment)
-PnL trend plotted against scaled Fear–Greed trend.
+### **1️⃣ Daily Trader PnL vs Fear–Greed Index**
+<p align="center">
+  <img src="https://github.com/your-username/Trader-Behavior-Insights/blob/main/plots/Daily%20Trader%20PnL%20vs%20Fear%E2%80%93Greed%20Index.png" width="700">
+</p>
 
-#### 4️⃣ Correlation Heatmap
-Shows relationships between:
-- PnL  
-- Volume  
-- Average Price  
-- Sentiment  
+### **2️⃣ Daily Trading Volume vs Market Sentiment**
+<p align="center">
+  <img src="https://github.com/your-username/Trader-Behavior-Insights/blob/main/plots/Daily%20Trading%20Volume%20vs%20Market%20Sentiment.png" width="700">
+</p>
+
+### **3️⃣ Time-Series Comparison**
+<p align="center">
+  <img src="https://github.com/your-username/Trader-Behavior-Insights/blob/main/plots/Time-Series%20Comparison.png" width="700">
+</p>
+
+### **4️⃣ Performance & Sentiment Metrics**
+<p align="center">
+  <img src="https://github.com/your-username/Trader-Behavior-Insights/blob/main/plots/Performance%20%26%20Sentiment%20Metrics.png" width="700">
+</p>
 
 ---
 ##  Project Structure
